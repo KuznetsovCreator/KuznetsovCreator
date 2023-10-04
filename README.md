@@ -43,10 +43,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </div>
-
-<h3 align="left">Связь, обнял, приподнял:</h3>
-<p align="left">
-<a href="https://t.me/jumpdigital" target="blank"><img align="center" src="https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/social-icons/telegramm.svg" alt="jumpdigital" height="30" width="40" /></a>
-<a href="https://vk.com/thereallbigsmoke" target="blank"><img align="center" src="https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/social-icons/vk.svg" alt="thereallbigsmoke" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thereallbigsmoke" target="blank"><img align="center" src="https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/social-icons/instagramm.svg" alt="thereallbigsmoke" height="30" width="40" /></a>
-</p>
